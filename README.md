@@ -23,13 +23,24 @@ The risk assessment pictured below outlines potential problems that could arise 
 ### Kanban Board
 
 Our Kanban board was made using Jira, with different tasks being assigned to different team members where appropriate.
-![Jira](https://user-images.githubusercontent.com/104357764/179953754-0955b2d4-1c5f-4062-8b9d-ec73d85c0405.PNG)
+![Jira](https://user-images.githubusercontent.com/104357764/179972341-9de2b9a6-8065-4cd6-90e2-e2766acc8b9a.PNG)
+
 
 ### Test Analysis
 
 ## Infrastructure
 
+### Jenkins
 
+### Services
+
+## Development
+
+### Front End
+
+### Unit Testing
+
+## Future Improvements
 
 
 ## Contributors
