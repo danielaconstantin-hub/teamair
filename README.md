@@ -1,6 +1,13 @@
 # Team Air Practical Project
 This is the result of a short group project during our time at the QA Academy.
 
+## Overview
+
+### Objective
+
+The objective of this project is to create a service-orientated architecture for your application, this application must be composed of at least 4 services that work together.
+
+### Implementation
 
 ## Architecture
 
