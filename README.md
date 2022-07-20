@@ -19,7 +19,7 @@ This is the result of a short group project during our time at the QA Academy.
 
 ## Contributors
 
--Elliot Blanchfield /
+-Elliot Blanchfield \
 -Raul Ciobanu
 -Daniela Constantin
 -Iman Kassim
