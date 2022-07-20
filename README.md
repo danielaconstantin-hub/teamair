@@ -25,4 +25,4 @@ This is the result of a short group project during our time at the QA Academy.
 -Iman Kassim \
 -Kajan Kugananthajothy \
 -Elina Mcglinchey \
--Henry Opara \
+-Henry Opara
