@@ -9,9 +9,12 @@ The objective of this project is to create a service-orientated architecture for
 
 ### Implementation
 
+Our proposal to fulfill this brief is to create a web application that will generate an id for a user, pulling a letter & number from different services within the app.
+
 ## Architecture
 
 ### Risk Assessment
+
 ![Risk Assessment pic 1](https://user-images.githubusercontent.com/104357764/179954231-5ade16f9-ebda-46ba-8009-d4df75b3eccb.PNG)
 
 
