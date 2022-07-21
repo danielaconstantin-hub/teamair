@@ -44,6 +44,7 @@ As well as our webhook:
 
 
 ### Services
+The project's service structure is outlined by the below image:
 ![Slide2](https://user-images.githubusercontent.com/104357764/180204236-fb073c47-7071-4f41-8338-e8b689716c35.jpg)
 
 ## Development
