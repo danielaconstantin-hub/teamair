@@ -20,3 +20,7 @@ class TestResponse(TestBase):
             response = self.client.get(url_for('home'))
 
         self.assert200(response)
+
+    def test_get_num(self):
+        with mock() as m:
+            m.
