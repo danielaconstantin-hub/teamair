@@ -33,6 +33,13 @@ Our Kanban board was made using Jira, with different tasks being assigned to dif
 ### Continuous Integration & Deployment 
 ![image](https://user-images.githubusercontent.com/104357764/180204186-5f9f62b4-1e68-4504-8f0b-3f759c7b478e.png)
 
+### Jenkins
+Below we have our Jenkins build pictured:
+![Jenkins build1](https://user-images.githubusercontent.com/104357764/180204417-8abf409d-483c-48a4-bef5-fa72e25db2ce.png)
+
+As well as our webhook:
+![Webhook](https://user-images.githubusercontent.com/104357764/180204457-02bb1368-990b-4ae3-9dbf-23fa65a3144f.png)
+
 ### Services
 ![Slide2](https://user-images.githubusercontent.com/104357764/180204236-fb073c47-7071-4f41-8338-e8b689716c35.jpg)
 
