@@ -31,10 +31,10 @@ Our Kanban board was made using Jira, with different tasks being assigned to dif
 ## Infrastructure
 
 ### Continuous Integration & Deployment 
-
-### Jenkins
+![image](https://user-images.githubusercontent.com/104357764/180204186-5f9f62b4-1e68-4504-8f0b-3f759c7b478e.png)
 
 ### Services
+![Slide2](https://user-images.githubusercontent.com/104357764/180204236-fb073c47-7071-4f41-8338-e8b689716c35.jpg)
 
 ## Development
 
