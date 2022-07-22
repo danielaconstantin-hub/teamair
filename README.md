@@ -16,7 +16,8 @@ Our proposal to fulfill this brief is to create a web application that will gene
 ### Risk Assessment
 
 The risk assessment pictured below outlines potential problems that could arise over the duration of the project, with potential responses & precautions given where appropriate. 
-![Risk Assessment pic 1](https://user-images.githubusercontent.com/104357764/179954231-5ade16f9-ebda-46ba-8009-d4df75b3eccb.PNG)
+![Risk Assessment pic 2](https://user-images.githubusercontent.com/104357764/180408569-23cfc86c-e73e-41fb-bc7b-ac45c9754856.PNG)
+
 
 
 
