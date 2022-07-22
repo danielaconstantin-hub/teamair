@@ -54,7 +54,9 @@ The project's service structure is outlined by the below image:
 
 ### Unit Testing
 Pictured below are coverage tests of current unit tests:
+
 ![test2](https://user-images.githubusercontent.com/104357764/180410359-b777d1cf-15e7-4708-892a-a7b1b4bf25db.png)
+
 ![tests1](https://user-images.githubusercontent.com/104357764/180410472-d2d3fe07-0a3a-43aa-ac0d-bc52604444e9.png)
 
 
