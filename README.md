@@ -52,6 +52,7 @@ The project's service structure is outlined by the below image:
 
 ### Front End
 
+![image](https://user-images.githubusercontent.com/32695213/180421557-7e61a373-d3b9-4216-8dc3-3d229201d32f.png)
   
 
 ### Unit Testing
