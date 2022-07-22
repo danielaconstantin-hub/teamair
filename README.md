@@ -53,7 +53,8 @@ The project's service structure is outlined by the below image:
 ### Front End
 
 ![image](https://user-images.githubusercontent.com/32695213/180421557-7e61a373-d3b9-4216-8dc3-3d229201d32f.png)
-  
+
+![image](https://user-images.githubusercontent.com/32695213/180421896-1fb63f56-62f0-4e0c-824f-c8d2e72f397b.png)
 
 ### Unit Testing
 Pictured below are coverage tests of current unit tests:
