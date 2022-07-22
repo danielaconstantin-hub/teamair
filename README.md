@@ -9,7 +9,7 @@ The objective of this project is to create a service-orientated architecture for
 
 ### Implementation
 
-Our proposal to fulfill this brief is to create a web application that will generate an id for a user, pulling letters & numbers from different services within the app.
+Our proposal to fulfill this brief is to create a web application that will generate a password for a user, pulling letters & numbers from different services within the app.
 
 ## Architecture
 
@@ -51,6 +51,8 @@ The project's service structure is outlined by the below image:
 ## Development
 
 ### Front End
+
+  
 
 ### Unit Testing
 Pictured below are coverage tests of current unit tests:
