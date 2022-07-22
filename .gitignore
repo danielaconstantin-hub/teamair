@@ -2,8 +2,4 @@ venv/
 __pycache__
 *.db
 *.pytest_cache
-<<<<<<< HEAD
 *.coverage
-=======
-*.coverage
->>>>>>> 49c9fc78b02431394aa97207a58b77975e7d5097
