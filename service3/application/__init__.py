@@ -5,12 +5,12 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def get_num_let():
-    number = (requests.get('http://localhost:5001/get/numbers')).text
-    letter = (requests.get('http://localhost:5002/get/letters')).text
+    number = (requests.get('http://service1:5001/get/numbers')).text
+    letter = (requests.get('http://service2:5002/get/letters')).text
 
     num_let = f'{number} {letter}'
 
-    message = (requests.post('http://localhost:5004/result', data=num_let)).text
+    message = (requests.post('http://service4:5004/result', data=num_let)).text
     
     return render_template('home.html', number=number, letter=letter, message=message)
 
