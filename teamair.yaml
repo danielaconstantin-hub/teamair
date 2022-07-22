@@ -1,0 +1,42 @@
+--- 
+- hosts: localhost
+  become: true
+  tasks:
+
+  - name: 'Install NGINX'
+    apt:
+      name: nginx
+      state: latest
+      update_cache: true
+    register: install_nginx_info
+    ignore_errors: true
+
+  - name: printing out nginx install info
+    debug:
+      msg: "{{ install_nginx_info }}"
+    
+  - name: 'Start NGINX Service'
+    service:
+      name: nginx
+      state: started
+
+  - name: Copy nginx file over
+    copy:
+      src: nginx.conf
+      dest: /etc/nginx/nginx.conf
+    register: nginx_config
+
+  - name: Restart nginx if needed
+    service:
+      name: nginx
+      state: restarted
+    when: nginx_config.changed == true
+
+- name: 'Reloaded NGINX Service'
+    service:
+      name: nginx
+      state: reloaded
+    
+
+    
+  
