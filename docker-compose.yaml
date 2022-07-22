@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+  service1:
+    build: ./service1/application
+    ports:
+    - target: 5001
+      published: 5001
+      protocol: tcp
+  service2:
+    build: ./service2/application
+    ports:
+    - target: 5002
+      published: 5002
+      protocol: tcp
+  service3:
+    build: ./service3/application
+    ports:
+    - target: 5003
+      published: 5003
+      protocol: tcp
+  service4:
+    build: ./service4/application
+    ports:
+    - target: 5004
+      published: 5004
+      protocol: tcp
