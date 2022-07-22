@@ -14,10 +14,12 @@ def get_result():
 
     number = answer[0]
 
-    if number == '5' and letter == 'a':
-        message = '5 and a'
+    if number[0] == '5' and number[1] == '5' or number[2] == '5' and number[1] == '5' or number[2] == '5' and number[0] == '5':
+        message = 'password is not secure enough please generate a new one'
+    elif letter[0] == 'A' and letter[1] == 'A' or letter[2] == 'A' and letter[1] == 'A' or letter[2] == 'A' and letter[0] == 'A':
+        message = 'password is not secure enough please generate a new one'
     else:
-        message = 'other'
+        message = 'please use the above secure password'
     
     return Response(message, mimetype='text/plain')
 
