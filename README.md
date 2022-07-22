@@ -59,6 +59,8 @@ Pictured below are coverage tests of current unit tests:
 
 ![tests1](https://user-images.githubusercontent.com/104357764/180410472-d2d3fe07-0a3a-43aa-ac0d-bc52604444e9.png)
 
+![service3tests](https://user-images.githubusercontent.com/104357764/180419693-91c85e06-f89a-4984-b443-f35e278a0079.png)
+
 ![service4tests](https://user-images.githubusercontent.com/104357764/180415975-f1e39916-b537-428c-9f42-e4411b1c17e2.png)
 
 
