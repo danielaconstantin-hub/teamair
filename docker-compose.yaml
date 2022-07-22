@@ -15,12 +15,12 @@ services:
   service3:
     build: ./service3/application
     ports:
-    - targer: 5003
+    - target: 5003
       published: 5003
       protocol: tcp
   service4:
     build: ./service4/application
     ports:
-    - targer: 5004
+    - target: 5004
       published: 5004
       protocol: tcp
