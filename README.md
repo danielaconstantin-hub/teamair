@@ -65,7 +65,8 @@ Pictured below are coverage tests of current unit tests:
 ## Future Improvements
 -Complete unit testing \
 -Integration testing \
--Ansible integration
+-Ansible integration \
+-More complex key generation
 
 ## Contributors
 
